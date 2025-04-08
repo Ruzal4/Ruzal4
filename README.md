@@ -13,7 +13,7 @@
 - :zap: Моя цель — стать DevOps-инженером и попасть в IT в ближайший год.
 
 - :mailbox: Как связаться со мной:  
-[![Telegram Badge](https://img.shields.io/badge/Ruzal-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@Ruzal1)  
+[![Telegram Badge](https://img.shields.io/badge/Ruzal-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ruzal1)  
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailtochipolino20160303@gmail.com)
 
 ---
@@ -21,13 +21,10 @@
 ### 🤝 Социальные сети:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-  </a>
-  <a href="https://t.me/your_telegram_username" target="_blank">
+  <a href="https://t.me/Ruzal1" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
   </a>
-  <a href="https://vk.com/your_vk" target="_blank">
+  <a href="https://vk.com/ruzal98" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
   </a>
 </div>
